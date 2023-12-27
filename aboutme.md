@@ -13,10 +13,8 @@ What do I like?
   style= "padding: 0 15px; float: right;"
   />
 ```
-
 ---
 ### History ###
-
 ---
 
 ### Experience
