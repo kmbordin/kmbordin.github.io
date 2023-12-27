@@ -2,7 +2,7 @@
 title: "Who am I?" 
 ---
 
-What do I like?
+I am a Brazilian researcher currently based in the [Federal University of Rio Grande do Sul](http://www.ufrgs.br/ufrgs/inicial)
 
 ```{=html}
 <img 
