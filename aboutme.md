@@ -6,7 +6,7 @@ What do I like?
 
 ```{=html}
 <img 
-  src = "/assets/images/promata.png"
+  src = "/assets/images/promata.jpg"
   alt = "Araucaria Forest"
   align = "right"
   width = "220"
