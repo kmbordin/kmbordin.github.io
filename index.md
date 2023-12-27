@@ -2,7 +2,7 @@
 layout: page
 title: ""
 ---
-<img style="padding: 0 15px; float: right;" src="KMB-pic.jpg.jpg" align="right" width="220">
+<img style="padding: 0 15px; float: right;" src="KMB-pic.jpg" align="right" width="220">
 
 **Welcome!** 👋   
 
