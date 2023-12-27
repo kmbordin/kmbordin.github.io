@@ -16,7 +16,7 @@ Müller, S. C.; Bergamin, R. S.; **Bordin, K. M.**; Klipel, J.; Rosenfield, M. F
 
 Kattge, J.; Bönisch, G.; Díaz, S; Lavorel, S; [...], **Bordin, K. M.**; [...] Wirth, C. (2020) [Try Plant Trait Database -- Enhanced Coverage and Open Access.](https://doi.org/10.1111/gcb.14904) Global Change Biology
 
-**Bordin, K. M**. & Müller, S. C. [Drivers of subtropical forest dynamics: the role of functional traits, forest structure and soil variables](https://doi.org/10.1111/jvs.12811). Journal of Vegetation Science
+**Bordin, K. M**. & Müller, S. C. (2019) [Drivers of subtropical forest dynamics: the role of functional traits, forest structure and soil variables](https://doi.org/10.1111/jvs.12811). Journal of Vegetation Science
 
 **Bordin, K. M**. et al. (2019) [Community structure and tree diversity in a subtropical forest in southern Brazil](https://doi.org/10.1590/1676-0611-BN-2018-0606). Biota Neotropica
 
@@ -26,4 +26,4 @@ Kattge, J.; Bönisch, G.; Díaz, S; Lavorel, S; [...], **Bordin, K. M.**; [...] 
 
 **Bordin, K. M.** (2020) [As florestas e as mudanças climáticas](https://www.ufrgs.br/jornal/as-florestas-e-as-mudancas-climaticas/). *Jornal da Universidade*. [magazine for university community at Federal University of Rio Grande do Sul].
 
-Iserhard, C. A.; [...] **Bordin, K. M.** [Large and central eyespots from *Caligo martia* wings reduce fatal attacks by birds: a study case supports the deflection hypothesis in nature.](https://doi.org/10.22541/au.170000972.25951252/v1) Preprint at Authorea
+Iserhard, C. A.; [...] **Bordin, K. M.** (2023) [Large and central eyespots from *Caligo martia* wings reduce fatal attacks by birds: a study case supports the deflection hypothesis in nature.](https://doi.org/10.22541/au.170000972.25951252/v1) Preprint at Authorea
