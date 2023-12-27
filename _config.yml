@@ -24,6 +24,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:kauanembordin@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/kmbordin"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/kmbordin"}
+  - {title: google_scholar, icon: google_scholar, url: "https://scholar.google.com/citations?user=RwJPjaEAAAAJ&hl=pt-BR"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
@@ -32,6 +33,5 @@ comments:
 plugins:
  - jekyll-feed
 
-remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
