@@ -1,0 +1,33 @@
+title: "Kauane Maiara Bordin"
+description: "Ecologist "
+author: "Dr.Kauane Maiara Bordin"
+permalink: /:title/
+lang: "pt-br"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+
+show_excerpts: true        # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+minimal: false             # use a dark header
+
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {title: "Sobre mim", file: "aboutme.md"}
+  - {title: "Publicações", file: "publications.md"}
+  - {title: "Produção Técnica", file: "technical_prod.md"}
+
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:kauanembordin@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/kmbordin"}
+  - {title: Twitter, icon: twitter, url: "twitter.com/kmbordin"}
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
+plugins:
+ - jekyll-feed
