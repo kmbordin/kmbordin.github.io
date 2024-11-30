@@ -1,10 +1,10 @@
-[ResearchGate](https://www.researchgate.net/profile/Kauane-Bordin) \| [ORCID](https://orcid.org/0000-0003-3871-6293) \| [Lattes](http://lattes.cnpq.br/0142759261071759)
+[ResearchGate](https://www.researchgate.net/profile/Kauane-Bordin) \| [ORCID](https://orcid.org/0000-0003-3871-6293) \| [Lattes](http://lattes.cnpq.br/0142759261071759) \| [e-mail](mailto:kauanembordin@gmail.com)
 
 ------------------------------------------------------------------------
 
 ### Published papers
 
-Iserhard, C. A.; [...] **Bordin, K. M.** (2024) [The large and central Caligo martia eyespot may reduce fatal attacks by birds: a case study supports the deflection hypothesis in nature](https://peercommunityjournal.org/articles/10.24072/pcjournal.442/)Peer Community Journal
+Iserhard, C. A.; [...] **Bordin, K. M.** (2024) [The large and central Caligo martia eyespot may reduce fatal attacks by birds: a case study supports the deflection hypothesis in nature](https://peercommunityjournal.org/articles/10.24072/pcjournal.442/) Peer Community Journal
 
 Iserhard, C. A.; [...] **Bordin, K. M.** (2024) [Indirect Effects of Cattle Trampling on the Structure of Fruit-Feeding Butterfly Assemblages Inhabiting Restinga Forests in Southern Brazil](https://www.mdpi.com/1424-2818/16/8/467) Diversity
 
