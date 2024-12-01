@@ -1,6 +1,6 @@
 title: "Dr. Kauane Maiara Bordin"
 description: "Welcome to my website!"
-author: "Dr.Kauane Maiara Bordin"
+author: "Dr. Kauane Maiara Bordin"
 permalink: /:title/
 lang: "pt-br"
 excerpt_separator: "\n\n\n"
@@ -19,6 +19,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "About me", file: "aboutme.md"}
   - {title: "Publications", file: "publications.md"}
   - {title: "Talks", file: "technical_prod.md"}
+  - {title: "CV", file: "CV.md"}
+
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:kauanembordin@gmail.com"}
