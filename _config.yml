@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Publications", file: "publications.md"}
   #- {title: "Talks", file: "technical_prod.md"}
   - {title: "CV", file: "CV.md"}
-  - {title: "Projects", file: "projects.md"}
+  - {title: "Projects", file: "projects.MD"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
