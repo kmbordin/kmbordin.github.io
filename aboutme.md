@@ -12,7 +12,7 @@ My research centers on the long-term monitoring of forest ecosystems to understa
 
 ![](assets/images/bci.jpg)
 
-Research visit in Barro Colorado Island's 50 ha plot (Panama) in 2023
+Research visit to Barro Colorado Island's 50 ha plot (Panama) in 2023
 
 ![](assets/images/promata.jpg)
 
