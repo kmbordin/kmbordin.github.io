@@ -4,9 +4,11 @@
 
 ### Published papers
 
-Iserhard, C. A.; [...] **Bordin, K. M.** (2024) [The large and central Caligo martia eyespot may reduce fatal attacks by birds: a case study supports the deflection hypothesis in nature](https://peercommunityjournal.org/articles/10.24072/pcjournal.442/) Peer Community Journal
+Castilhos de Freitas, T.; [...]; **Bordin, K. M.**; [...]; Guarino, E. S. G. (2024) [Effects of *Pittosporum undulatum* Vent. invasion on forest diversity and structure in Southern Brazil](https://www.tandfonline.com/doi/full/10.1080/0028825X.2024.2433651). New Zealand Journal of Botany
 
-Iserhard, C. A.; [...] **Bordin, K. M.** (2024) [Indirect Effects of Cattle Trampling on the Structure of Fruit-Feeding Butterfly Assemblages Inhabiting Restinga Forests in Southern Brazil](https://www.mdpi.com/1424-2818/16/8/467) Diversity
+Iserhard, C. A.; [...]; **Bordin, K. M.** (2024) [The large and central Caligo martia eyespot may reduce fatal attacks by birds: a case study supports the deflection hypothesis in nature](https://peercommunityjournal.org/articles/10.24072/pcjournal.442/) Peer Community Journal
+
+Iserhard, C. A.; [...]; **Bordin, K. M.** (2024) [Indirect Effects of Cattle Trampling on the Structure of Fruit-Feeding Butterfly Assemblages Inhabiting Restinga Forests in Southern Brazil](https://www.mdpi.com/1424-2818/16/8/467) Diversity
 
 Bialic-Murphy, L.; [...]; **Bordin, K. M.**; [...]; Crowter, T. W. (2024) [The pace of life for forest trees](https://www.science.org/doi/10.1126/science.adk9616) Science
 
@@ -20,7 +22,7 @@ Klipel, J.; [...]; **Bordin, K. M.**; [...]; Müller, S.C. (2023) [How do distin
 
 **Bordin, K. M.** et al. (2023) [No relationship between biodiversity and forest carbon sink across the subtropical Brazilian Atlantic Forest](https://doi.org/10.1016/j.pecon.2023.02.003). Perspectives in Ecology and Conservation
 
-ForestPlots.net, Blundo, C. C.; [...], **Bordin, K. M.**; [...] (2021) [Taking the pulse of Earth's tropical forests using networks of highly distributed plots](https://doi.org/10.1016/j.biocon.2020.108849). Biological Conservation
+ForestPlots.net; Blundo, C. C.; [...]; **Bordin, K. M.**; [...] (2021) [Taking the pulse of Earth's tropical forests using networks of highly distributed plots](https://doi.org/10.1016/j.biocon.2020.108849). Biological Conservation
 
 **Bordin, K. M.** et al. (2021) [Climate and large-sized trees, but not diversity, drive above-ground biomass in subtropical forests.](https://doi.org/10.1016/j.foreco.2021.119126) Forest Ecology and Management
 
@@ -38,7 +40,7 @@ Kattge, J.; Bönisch, G.; Díaz, S; Lavorel, S; [...], **Bordin, K. M.**; [...] 
 
 **Bordin, K. M.** (2020) [As florestas e as mudanças climáticas](https://www.ufrgs.br/jornal/as-florestas-e-as-mudancas-climaticas/). *Jornal da Universidade*. [magazine for university community at Federal University of Rio Grande do Sul].
 
-Iserhard, C. A.; [...] **Bordin, K. M.** (2023) [Large and central eyespots from *Caligo martia* wings reduce fatal attacks by birds: a study case supports the deflection hypothesis in nature.](https://doi.org/10.22541/au.170000972.25951252/v1) Preprint at Authorea
+Iserhard, C. A.; [...]; **Bordin, K. M.** (2023) [Large and central eyespots from *Caligo martia* wings reduce fatal attacks by birds: a study case supports the deflection hypothesis in nature.](https://doi.org/10.22541/au.170000972.25951252/v1) Preprint at Authorea
 
 ### Book chapters
 
