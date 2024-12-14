@@ -1,3 +1,8 @@
+---
+title: "Here is a summary of my scientific productions 🌿" 
+---
+
+
 [ResearchGate](https://www.researchgate.net/profile/Kauane-Bordin) \| [ORCID](https://orcid.org/0000-0003-3871-6293) \| [Lattes](http://lattes.cnpq.br/0142759261071759) \| [e-mail](mailto:kauanembordin@gmail.com)
 
 ------------------------------------------------------------------------

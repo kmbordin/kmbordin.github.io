@@ -1,4 +1,6 @@
-#### Understanding the forest ecosystems 🌿
+---
+title: "Understanding the forest ecosystems 🌿" 
+---
 
 Welcome to a space dedicated to understanding the complexities of forest ecosystems. My research focuses on exploring patterns in forest structure, species strategies, and carbon dynamics, providing insights to guide conservation and restoration efforts. In addition, my studies have a special emphasis on how theses ecosystems respond to global changes.
 
@@ -12,4 +14,4 @@ Welcome to a space dedicated to understanding the complexities of forest ecosyst
 
 **SOBIO**: Soluções da Biodiversidade para Mitigação das Mudanças Climáticas (Nature-based solutions for climatic changes mitigation): Coordinated by Dr. Márcia Cristina Mendes Marques.
 
-[**Rede DAMA**](https://rededama.github.io/) (Dinâmica Ambiental da Mata Atlântica- Atlantic Forest Environmental Dynamics): a network of researchers united to understand the complex dynamics of the Brazilian Atlantic Forest, a global hotspot of biosiversity.
+[**Rede DAMA**](https://rededama.github.io/) (Dinâmica Ambiental da Mata Atlântica- Atlantic Forest Environmental Dynamics): a network of researchers united to understand the complex dynamics of the Brazilian Atlantic Forest, a global hotspot of biodiversity.
