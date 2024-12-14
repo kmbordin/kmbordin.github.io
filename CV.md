@@ -1,4 +1,4 @@
-## This is a brief summary of my main academic and professional experiences:
+## This is a brief summary of my main academic and professional experiences: {style="darkgreen"}
 
 ## Education
 
@@ -6,7 +6,7 @@
 
 Fully funded (CAPES). Supervisors: Professor Sandra Cristina Müller and Dr. Adriane Esquivel-Muelbert
 
-Received the highest score \'A\' in all modules and in the final thesis.
+Received the highest score 'A' in all modules and in the final thesis.
 
 **2016 -- 2018. MSc in Ecology** - Universidade Federal do Rio Grande do Sul, UFRGS, Brazil.
 
@@ -44,7 +44,7 @@ Fully funded (CAPES). Supervisor: Professor Sandra Cristina Müller
 
 ## Institutional Responsibilities And Citizenship
 
-[**Reviewer for:**]{.underline} Scientific Reports, Journal of Ecology, New Phytologist, Forest Ecology and Management, Restoration Ecology, Biotropica, Frontiers in Plant Science, Frontiers in Forests and Global Change, Perspectives in Ecology and Conservation, Journal of Vegetation Science, Folia Geobotanica, Ecological Indicators, Applied Vegetation Science, Global Ecology and Conservation, Brazilian Journal of Botany, Ecological Processes, Ecology and Evolution, Biotropica, Science of The Total Environment and other local journals.
+**Reviewer for:** Scientific Reports, Journal of Ecology, New Phytologist, Forest Ecology and Management, Restoration Ecology, Biotropica, Frontiers in Plant Science, Frontiers in Forests and Global Change, Perspectives in Ecology and Conservation, Journal of Vegetation Science, Folia Geobotanica, Ecological Indicators, Applied Vegetation Science, Global Ecology and Conservation, Brazilian Journal of Botany, Ecological Processes, Ecology and Evolution, Biotropica, Science of The Total Environment and other local journals.
 
 ## Networks
 
