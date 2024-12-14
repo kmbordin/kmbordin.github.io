@@ -1,4 +1,4 @@
-## This is a brief summary of my main academic and professional experiences: {style="darkgreen"}
+## This is a brief summary of my main academic and professional experiences:
 
 ## Education
 
