@@ -1,5 +1,5 @@
 ---
-title: "Here is a summary of my scientific productions 🌿" 
+title: "Here is a summary of my scientific production 🌿" 
 ---
 
 

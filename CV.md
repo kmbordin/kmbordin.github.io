@@ -64,4 +64,4 @@ Over the past few years, I have been developing the following skills:
 
 -   Proficiency in coding with the Tidyverse package (especially ggplot2 and dplyr).
 
--   Management of large datasets.
+-   Management of large datasets of biological data.

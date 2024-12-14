@@ -1,11 +1,9 @@
 ---
 layout: page
-title: ""
+title: " Welcome to my website!"
 ---
 
 <img src="KMB-pic.jpg" style="padding: 0 15px; float: right;" align="right" width="220"/>
-
-**Welcome to my website!**
 
 Hi! I am Kauane Maiara Bordin, a passionate Brazilian ecologist dedicated to studying community and functional ecology. My research focuses on uncovering the drivers behind the structure and dynamics of (sub)tropical forests 🌳🌳
 
