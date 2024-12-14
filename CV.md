@@ -1,4 +1,7 @@
-## This is a brief summary of my main academic and professional experiences:
+---
+title: "This is a brief summary of my main academic and professional experiences" 
+---
+
 
 ## Education
 
