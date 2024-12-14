@@ -2,7 +2,6 @@
 title: "This is a brief summary of my main academic and professional experiences" 
 ---
 
-
 ## Education
 
 **2018 -- 2022. PhD in Ecology** -- Universidade Federal do Rio Grande do Sul, UFRGS, Brazil.
@@ -56,3 +55,13 @@ Fully funded (CAPES). Supervisor: Professor Sandra Cristina Müller
 2021 -- present. Member of International Tree Mortality Network.
 
 2019 -- present. Member of ForestPlots.net, a global network for forest monitoring across the tropical region.
+
+## Soft skills and knowledge
+
+Over the past few years, I have been developing the following skills:
+
+-   Analytical expertise in linear models (including generalised and mixed models) and multivariate analyses.
+
+-   Proficiency in coding with the Tidyverse package (especially ggplot2 and dplyr).
+
+-   Management of large datasets.
