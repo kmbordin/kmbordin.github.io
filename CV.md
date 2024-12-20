@@ -1,5 +1,5 @@
 ---
-title: "This is a brief summary of my main academic and professional experiences" 
+title: "This is a brief summary of my main academic and professional experiences 📚🌳" 
 ---
 
 ## Education
@@ -30,9 +30,9 @@ Fully funded (CAPES). Supervisor: Professor Sandra Cristina Müller
 
 2023\. Tutoring and Mentoring -- Federal University of Rio Grande do Sul (UFRGS): Field Ecology Course, Graduate Program in Ecology (60 h).
 
-2020\. Tutoring and Field Assistant -- Federal University of Rio Grande do Sul (UFRGS): Field Ecology Course, Graduate Program in Ecology (160 h).
-
 10.2022 - 05.2024 -- Research Fellow; National Institute of Science and Technology in Ecology, Evolution, and Conservation of Biodiversity. Federal University of Rio Grande do Sul, UFRGS, Brazil
+
+2020\. Tutoring and Field Assistant -- Federal University of Rio Grande do Sul (UFRGS): Field Ecology Course, Graduate Program in Ecology (160 h).
 
 2013 -- Monitor and Field Assistant; Field course in Southern Brazil for tree species identification (2 days)
 
@@ -49,6 +49,8 @@ Fully funded (CAPES). Supervisor: Professor Sandra Cristina Müller
 **Reviewer for:** Scientific Reports, Journal of Ecology, New Phytologist, Forest Ecology and Management, Restoration Ecology, Biotropica, Frontiers in Plant Science, Frontiers in Forests and Global Change, Perspectives in Ecology and Conservation, Journal of Vegetation Science, Folia Geobotanica, Ecological Indicators, Applied Vegetation Science, Global Ecology and Conservation, Brazilian Journal of Botany, Ecological Processes, Ecology and Evolution, Science of The Total Environment, and other local journals.
 
 ## Networks
+
+2023 -- present. Member of Association for Tropical Biological Conservation (ATBC).
 
 2022 -- present. Member of Alliance for Tropical Forest Science -- Tropical Tree Mortality Working Group.
 
