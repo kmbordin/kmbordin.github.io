@@ -8,9 +8,9 @@ title: "Here is a summary of my scientific production 🌿📚🌳"
 
 ### Published papers
 
-Castilhos de Freitas, T.; [...]; **Bordin, K. M.**; [...]; Guarino, E. S. G. (2024) [Effects of *Pittosporum undulatum* Vent. invasion on forest diversity and structure in Southern Brazil](https://www.tandfonline.com/doi/full/10.1080/0028825X.2024.2433651). New Zealand Journal of Botany
+Castilhos de Freitas, T.; [...]; **Bordin, K. M.**; [...]; Guarino, E. S. G. (2024) [Effects of *Pittosporum undulatum* Vent. invasion on forest diversity and structure in Southern Brazil](https://www.tandfonline.com/doi/full/10.1080/0028825X.2024.2433651) New Zealand Journal of Botany
 
-Iserhard, C. A.; [...]; **Bordin, K. M.** (2024) [The large and central Caligo martia eyespot may reduce fatal attacks by birds: a case study supports the deflection hypothesis in nature](https://peercommunityjournal.org/articles/10.24072/pcjournal.442/) Peer Community Journal
+Iserhard, C. A.; [...]; **Bordin, K. M.** (2024) [The large and central *Caligo martia* eyespot may reduce fatal attacks by birds: a case study supports the deflection hypothesis in nature](https://peercommunityjournal.org/articles/10.24072/pcjournal.442/) Peer Community Journal
 
 Iserhard, C. A.; [...]; **Bordin, K. M.** (2024) [Indirect Effects of Cattle Trampling on the Structure of Fruit-Feeding Butterfly Assemblages Inhabiting Restinga Forests in Southern Brazil](https://www.mdpi.com/1424-2818/16/8/467) Diversity
 
@@ -22,21 +22,21 @@ Klipel, J.; Morales, D. da C. [...]; **Bordin, K. M.**; [...]; Müller, S.C. (20
 
 Klipel, J.; [...]; **Bordin, K. M.**; [...]; Müller, S.C. (2024) [The effect of neighbor species' phylogenetic and trait difference on tree growth in subtropical forests](https://doi.org/10.1111/jvs.13296) Journal of Vegetation Science
 
-Klipel, J.; [...]; **Bordin, K. M.**; [...]; Müller, S.C. (2023) [How do distinct facets of tree diversity and community assembly respond to environmental variables in the subtropical Atlantic Forest?](https://onlinelibrary.wiley.com/doi/10.1002/ece3.10321) Ecology and Evolution.
+Klipel, J.; [...]; **Bordin, K. M.**; [...]; Müller, S.C. (2023) [How do distinct facets of tree diversity and community assembly respond to environmental variables in the subtropical Atlantic Forest?](https://onlinelibrary.wiley.com/doi/10.1002/ece3.10321) Ecology and Evolution
 
-**Bordin, K. M.** et al. (2023) [No relationship between biodiversity and forest carbon sink across the subtropical Brazilian Atlantic Forest](https://doi.org/10.1016/j.pecon.2023.02.003). Perspectives in Ecology and Conservation
+**Bordin, K. M.** et al. (2023) [No relationship between biodiversity and forest carbon sink across the subtropical Brazilian Atlantic Forest](https://doi.org/10.1016/j.pecon.2023.02.003) Perspectives in Ecology and Conservation
 
-ForestPlots.net; Blundo, C. C.; [...]; **Bordin, K. M.**; [...] (2021) [Taking the pulse of Earth's tropical forests using networks of highly distributed plots](https://doi.org/10.1016/j.biocon.2020.108849). Biological Conservation
+ForestPlots.net; Blundo, C. C.; [...]; **Bordin, K. M.**; [...] (2021) [Taking the pulse of Earth's tropical forests using networks of highly distributed plots](https://doi.org/10.1016/j.biocon.2020.108849) Biological Conservation
 
-**Bordin, K. M.** et al. (2021) [Climate and large-sized trees, but not diversity, drive above-ground biomass in subtropical forests.](https://doi.org/10.1016/j.foreco.2021.119126) Forest Ecology and Management
+**Bordin, K. M.** et al. (2021) [Climate and large-sized trees, but not diversity, drive above-ground biomass in subtropical forests](https://doi.org/10.1016/j.foreco.2021.119126) Forest Ecology and Management
 
-Müller, S. C.; Bergamin, R. S.; **Bordin, K. M.**; Klipel, J.; Rosenfield, M. F. (2021) [Canopy leaf traits, basal area and age predict functional patterns of regenerating communities in secondary subtropical forests](https://doi.org/10.3389/ffgc.2021.572864). Frontiers in Forests and Global Change
+Müller, S. C.; Bergamin, R. S.; **Bordin, K. M.**; Klipel, J.; Rosenfield, M. F. (2021) [Canopy leaf traits, basal area and age predict functional patterns of regenerating communities in secondary subtropical forests](https://doi.org/10.3389/ffgc.2021.572864) Frontiers in Forests and Global Change
 
-Kattge, J.; Bönisch, G.; Díaz, S; Lavorel, S; [...], **Bordin, K. M.**; [...] Wirth, C. (2020) [Try Plant Trait Database -- Enhanced Coverage and Open Access.](https://doi.org/10.1111/gcb.14904) Global Change Biology
+Kattge, J.; Bönisch, G.; Díaz, S; Lavorel, S; [...], **Bordin, K. M.**; [...] Wirth, C. (2020) Try Plant Trait Database -- Enhanced Coverage and Open Access Global Change Biology
 
-**Bordin, K. M**. & Müller, S. C. (2019) [Drivers of subtropical forest dynamics: the role of functional traits, forest structure and soil variables](https://doi.org/10.1111/jvs.12811). Journal of Vegetation Science
+**Bordin, K. M**. & Müller, S. C. (2019) [Drivers of subtropical forest dynamics: the role of functional traits, forest structure and soil variables](https://doi.org/10.1111/jvs.12811) Journal of Vegetation Science
 
-**Bordin, K. M**. et al. (2019) [Community structure and tree diversity in a subtropical forest in southern Brazil](https://doi.org/10.1590/1676-0611-BN-2018-0606). Biota Neotropica
+**Bordin, K. M**. et al. (2019) [Community structure and tree diversity in a subtropical forest in southern Brazil](https://doi.org/10.1590/1676-0611-BN-2018-0606) Biota Neotropica
 
 **Bordin, K. M.** et al. (2014) Percepção ambiental de estudantes de área urbana e rural. Revista de Ensino de Biologia da Associação Brasileira de Ensino de Biologia (SBEnBio)
 
