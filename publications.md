@@ -8,6 +8,8 @@ title: "Here is a summary of my scientific production 🌿📚🌳"
 
 ### Published papers
 
+International Tree Mortality Network - Senf, C.; [...]; **Bordin, K. M.**; [...]. (2025) [Towards a global understanding of tree mortality](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.20407) New Phytologist
+
 Castilhos de Freitas, T.; [...]; **Bordin, K. M.**; [...]; Guarino, E. S. G. (2024) [Effects of *Pittosporum undulatum* Vent. invasion on forest diversity and structure in Southern Brazil](https://www.tandfonline.com/doi/full/10.1080/0028825X.2024.2433651) New Zealand Journal of Botany
 
 Iserhard, C. A.; [...]; **Bordin, K. M.** (2024) [The large and central *Caligo martia* eyespot may reduce fatal attacks by birds: a case study supports the deflection hypothesis in nature](https://peercommunityjournal.org/articles/10.24072/pcjournal.442/) Peer Community Journal
@@ -48,4 +50,4 @@ Iserhard, C. A.; [...]; **Bordin, K. M.** (2023) [Large and central eyespots fro
 
 ### Book chapters
 
-**Bordin, K. M.**; Morales, D. da C.; et al. 2024. The use of functional traits in assessing productivity in natural ecosystems In Plant Functional Traits: Linking Climate and Ecosystem Functioning, edited by Manoj Kumar, Rainer Bussmann, Nathan Swenson. Ed 1. Vol. 1, 1-20: Elsevier*. ISBN: 0443133670*
+**Bordin, K. M.**; Morales, D. da C.; et al. 2025. The use of functional traits in assessing productivity in natural ecosystems. In Plant Functional Traits: Linking Climate and Ecosystem Functioning, edited by Manoj Kumar, Rainer Bussmann, Nathan Swenson. Ed 1. Vol. 1, 111-130: Elsevier*. ISBN: 0443133670* doi: 10.1016/B978-0-443-13367-1.00007-7

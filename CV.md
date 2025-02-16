@@ -38,11 +38,11 @@ Fully funded (CAPES). Supervisor: Professor Sandra Cristina Müller
 
 ## Invited Talks
 
-07.2023: *The strength of demographic trade-offs across Tropical Americas and their underlying mechanisms*. ForestGEO Analytical Workshop, Gamboa, Panama.
+07.2023. *The strength of demographic trade-offs across Tropical Americas and their underlying mechanisms*. ForestGEO Analytical Workshop, Gamboa, Panama.
 
-02.2022.*The subtropical forests from Southern Brazil: importance and perspectives***.** University of Birmingham, UK
+02.2022. *The subtropical forests from Southern Brazil: importance and perspectives***.** University of Birmingham, UK
 
-09.2021.[Amazônia Interdisciplinar](https://www.youtube.com/watch?v=m2kVA87gCME)**.** Mudanças climáticas na Amazônia (*Climate change across the Amazon Forest*).
+09.2021. [Amazônia Interdisciplinar](https://www.youtube.com/watch?v=m2kVA87gCME)**.** Mudanças climáticas na Amazônia (*Climate change across the Amazon Forest*).
 
 ## Institutional Responsibilities And Citizenship
 
