@@ -18,7 +18,7 @@ Fully funded (CAPES). Supervisor: Professor Sandra Cristina Müller
 
 ## Professional employment
 
-12-2024 - Current. Research Fellow, National Program of Post-Doctoral research. Federal University of Rio Grande do Sul, UFRGS, Brazil
+12.2024 - Current. Research Fellow, National Program of Post-Doctoral research. Federal University of Rio Grande do Sul, UFRGS, Brazil
 
 05.2024 - 11.2024 -- Research Fellow; National Institute of Science and Technology in Low Carbon Agriculture. Federal University of Rio Grande do Sul, UFRGS, Brazil
 
