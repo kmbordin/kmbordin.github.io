@@ -50,4 +50,4 @@ Iserhard, C. A.; [...]; **Bordin, K. M.** (2023) [Large and central eyespots fro
 
 ### Book chapters
 
-**Bordin, K. M.**; Morales, D. da C.; et al. 2025. [The use of functional traits in assessing productivity in natural ecosystems](https://doi.org/10.1016/B978-0-443-13367-1.00007-7). In [Plant Functional Traits: Linking Climate and Ecosystem Functioning](https://doi.org/10.1016/C2022-0-02004-3), edited by Manoj Kumar, Rainer Bussmann, Nathan Swenson. Ed 1. Vol. 1, 111-133: Elsevier*. ISBN: 978-0-443-13367-1*
+**Bordin, K. M.**; Morales, D. da C.; et al. 2025. [The use of functional traits in assessing productivity in natural ecosystems](https://www.sciencedirect.com/science/article/abs/pii/B9780443133671000077?via%3Dihub). In [Plant Functional Traits: Linking Climate and Ecosystem Functioning](https://doi.org/10.1016/C2022-0-02004-3), edited by Manoj Kumar, Rainer Bussmann, Nathan Swenson. Ed 1. Vol. 1, 111-133: Elsevier*. ISBN: 978-0-443-13367-1*
