@@ -8,6 +8,14 @@ title: "Here is a summary of my scientific production 🌿📚🌳"
 
 ### Published papers
 
+Sullivan, M.J.P.; Phillips, O.L.; Galbraith, D.; [...]; **Bordin, K. M.**; [...]*.* (2025) [Variation in wood density across South American tropical forests](https://doi.org/10.1038/s41467-025-56175-4) Nature Communications
+
+Aguirre-Gutiérrez, J.; [...]; **Bordin, K. M.**; [...]*.* (2025) [Tropical forests in the Americas are changing too slowly to track climate change](https://www.science.org/doi/10.1126/science.adl5414) Science
+
+Aguirre-Gutiérrez, J.; Rifai, S.W.; [...]; **Bordin, K. M.**; [...]*.* (2025) [Canopy functional trait variation across Earth\'s tropical forests](https://doi.org/10.1038/s41586-025-08663-2) Nature 
+
+Freitag Kramer, J.M.; **Bordin, K.M.**; [...]; Müller, S. (2025), Temporal changes in taxonomic and functional alpha and beta diversity across tree communities in subtropical Atlantic forests. Oikos
+
 International Tree Mortality Network - Senf, C.; [...]; **Bordin, K. M.**; [...]. (2025) [Towards a global understanding of tree mortality](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.20407) New Phytologist
 
 Castilhos de Freitas, T.; [...]; **Bordin, K. M.**; [...]; Guarino, E. S. G. (2024) [Effects of *Pittosporum undulatum* Vent. invasion on forest diversity and structure in Southern Brazil](https://www.tandfonline.com/doi/full/10.1080/0028825X.2024.2433651) New Zealand Journal of Botany
@@ -42,12 +50,12 @@ Kattge, J.; Bönisch, G.; Díaz, S; Lavorel, S; [...], **Bordin, K. M.**; [...] 
 
 **Bordin, K. M.** et al. (2014) Percepção ambiental de estudantes de área urbana e rural. Revista de Ensino de Biologia da Associação Brasileira de Ensino de Biologia (SBEnBio)
 
+### Book chapters
+
+**Bordin, K. M.**; Morales, D. da C.; et al. 2025. [The use of functional traits in assessing productivity in natural ecosystems](https://www.sciencedirect.com/science/article/abs/pii/B9780443133671000077?via%3Dihub). In [Plant Functional Traits: Linking Climate and Ecosystem Functioning](https://doi.org/10.1016/C2022-0-02004-3), edited by Manoj Kumar, Rainer Bussmann, Nathan Swenson. Ed 1. Vol. 1, 111-133: Elsevier*. ISBN: 978-0-443-13367-1*
+
 ### Other publications
 
 **Bordin, K. M.** (2020) [As florestas e as mudanças climáticas](https://www.ufrgs.br/jornal/as-florestas-e-as-mudancas-climaticas/). *Jornal da Universidade*. [magazine for university community at Federal University of Rio Grande do Sul].
 
 Iserhard, C. A.; [...]; **Bordin, K. M.** (2023) [Large and central eyespots from *Caligo martia* wings reduce fatal attacks by birds: a study case supports the deflection hypothesis in nature.](https://doi.org/10.22541/au.170000972.25951252/v1) Preprint at Authorea
-
-### Book chapters
-
-**Bordin, K. M.**; Morales, D. da C.; et al. 2025. [The use of functional traits in assessing productivity in natural ecosystems](https://www.sciencedirect.com/science/article/abs/pii/B9780443133671000077?via%3Dihub). In [Plant Functional Traits: Linking Climate and Ecosystem Functioning](https://doi.org/10.1016/C2022-0-02004-3), edited by Manoj Kumar, Rainer Bussmann, Nathan Swenson. Ed 1. Vol. 1, 111-133: Elsevier*. ISBN: 978-0-443-13367-1*
