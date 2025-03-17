@@ -12,9 +12,9 @@ Sullivan, M.J.P.; Phillips, O.L.; Galbraith, D.; [...]; **Bordin, K. M.**; [...]
 
 Aguirre-Gutiérrez, J.; [...]; **Bordin, K. M.**; [...]*.* (2025) [Tropical forests in the Americas are changing too slowly to track climate change](https://www.science.org/doi/10.1126/science.adl5414) Science
 
-Aguirre-Gutiérrez, J.; Rifai, S.W.; [...]; **Bordin, K. M.**; [...]*.* (2025) [Canopy functional trait variation across Earth\'s tropical forests](https://doi.org/10.1038/s41586-025-08663-2) Nature 
+Aguirre-Gutiérrez, J.; Rifai, S.W.; [...]; **Bordin, K. M.**; [...]*.* (2025) [Canopy functional trait variation across Earth's tropical forests](https://doi.org/10.1038/s41586-025-08663-2) Nature 
 
-Freitag Kramer, J.M.; **Bordin, K.M.**; [...]; Müller, S. (2025), Temporal changes in taxonomic and functional alpha and beta diversity across tree communities in subtropical Atlantic forests. Oikos
+Freitag Kramer, J.M.; **Bordin, K.M.**; [...]; Müller, S. (2025), [Temporal changes in taxonomic and functional alpha and beta diversity across tree communities in subtropical Atlantic forests](https://doi.org/10.1111/oik.10961). Oikos
 
 International Tree Mortality Network - Senf, C.; [...]; **Bordin, K. M.**; [...]. (2025) [Towards a global understanding of tree mortality](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.20407) New Phytologist
 
@@ -42,7 +42,7 @@ ForestPlots.net; Blundo, C. C.; [...]; **Bordin, K. M.**; [...] (2021) [Taking t
 
 Müller, S. C.; Bergamin, R. S.; **Bordin, K. M.**; Klipel, J.; Rosenfield, M. F. (2021) [Canopy leaf traits, basal area and age predict functional patterns of regenerating communities in secondary subtropical forests](https://doi.org/10.3389/ffgc.2021.572864) Frontiers in Forests and Global Change
 
-Kattge, J.; Bönisch, G.; Díaz, S; Lavorel, S; [...], **Bordin, K. M.**; [...] Wirth, C. (2020) Try Plant Trait Database -- Enhanced Coverage and Open Access Global Change Biology
+Kattge, J.; Bönisch, G.; Díaz, S; Lavorel, S; [...], **Bordin, K. M.**; [...] Wirth, C. (2020) [Try Plant Trait Database -- Enhanced Coverage and Open Access](https://doi.org/10.1111/gcb.14904) Global Change Biology
 
 **Bordin, K. M**. & Müller, S. C. (2019) [Drivers of subtropical forest dynamics: the role of functional traits, forest structure and soil variables](https://doi.org/10.1111/jvs.12811) Journal of Vegetation Science
 
