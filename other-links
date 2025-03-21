@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links Escondidos</title>
+</head>
+<body>
+    <h2>Links Importantes</h2>
+    <ul>
+        <li><a href="https://kmbordin.github.io/talk" target="_blank">Exemplo 1</a></li>
+        <li><a href="https://kmbordin.github.io/class" target="_blank">Exemplo 2</a></li>
+    </ul>
+</body>
+</html>
