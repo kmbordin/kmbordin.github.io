@@ -8,6 +8,8 @@ title: "Here is a summary of my scientific production 🌿📚🌳"
 
 ### Published papers
 
+**Bordin, K. M.** et al. (2025) [Tall stature and small leaves: ecological strategies that enhance tree growth across the subtropical Brazilian Atlantic Forest](https://doi.org/10.1002/oik.11235) Oikos
+
 Sullivan, M.J.P.; Phillips, O.L.; Galbraith, D.; [...]; **Bordin, K. M.**; [...]*.* (2025) [Variation in wood density across South American tropical forests](https://doi.org/10.1038/s41467-025-56175-4) Nature Communications
 
 Aguirre-Gutiérrez, J.; [...]; **Bordin, K. M.**; [...]*.* (2025) [Tropical forests in the Americas are changing too slowly to track climate change](https://www.science.org/doi/10.1126/science.adl5414) Science
