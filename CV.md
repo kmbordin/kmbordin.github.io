@@ -38,7 +38,7 @@ Fully funded (CAPES). Supervisor: Professor Sandra Cristina Müller
 
 ## Invited Talks
 
-04.2025. *The role of disturbance in shaping demographic trade-offs in temperate tree species*. [International Tree Mortality Network seminar series](https://www.tree-mortality.net/seminars/).
+04.2025. *The role of disturbance in shaping demographic trade-offs in temperate tree species*. [International Tree Mortality Network seminar series](https://www.tree-mortality.net/seminars/). Also here: https://www.youtube.com/watch?v=iu9MzsRWyn8
 
 07.2023. *The strength of demographic trade-offs across Tropical Americas and their underlying mechanisms*. ForestGEO Analytical Workshop, Gamboa, Panama.
 
