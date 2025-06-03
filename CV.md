@@ -20,6 +20,8 @@ Fully funded (CAPES). Supervisor: Professor Sandra Cristina Müller
 
 12.2024 - Current. Research Fellow, National Program of Post-Doctoral research. Federal University of Rio Grande do Sul, UFRGS, Brazil
 
+2025\. Lecturing --Pontifícia Universidade Católica of Rio Grande do Sul (PUC-RS): Methods for carbon estimation in terrestrial areas (30 h)
+
 05.2024 - 11.2024 -- Research Fellow; National Institute of Science and Technology in Low Carbon Agriculture. Federal University of Rio Grande do Sul, UFRGS, Brazil
 
 2024\. Lecturing --Pontifícia Universidade Católica of Rio Grande do Sul (PUC-RS): Methods for carbon estimation in terrestrial areas (30 h).
@@ -38,7 +40,7 @@ Fully funded (CAPES). Supervisor: Professor Sandra Cristina Müller
 
 ## Invited Talks
 
-04.2025. *The role of disturbance in shaping demographic trade-offs in temperate tree species*. [International Tree Mortality Network seminar series](https://www.tree-mortality.net/seminars/). Also here: https://www.youtube.com/watch?v=iu9MzsRWyn8
+04.2025. *The role of disturbance in shaping demographic trade-offs in temperate tree species*. [International Tree Mortality Network seminar series](https://www.tree-mortality.net/seminars/). Also here: <https://www.youtube.com/watch?v=iu9MzsRWyn8>
 
 07.2023. *The strength of demographic trade-offs across Tropical Americas and their underlying mechanisms*. ForestGEO Analytical Workshop, Gamboa, Panama.
 
