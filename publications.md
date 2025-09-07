@@ -8,7 +8,7 @@ title: "Here is a summary of my scientific production 🌿📚🌳"
 
 ### Published papers
 
-**Bordin, K. M.** et al. (2025) [Tall stature and small leaves: ecological strategies that enhance tree growth across the subtropical Brazilian Atlantic Forest](https://doi.org/10.1002/oik.11235) Oikos
+**Bordin, K. M.** et al. (2025) [Tall stature and small leaves: ecological strategies that enhance tree growth across the subtropical Brazilian Atlantic Forest](https://doi.org/10.1002/oik.11235) Oikos (Update: This paper was selected as Editor's choice at the Volume 2025, Issue 8, from August 2025)
 
 Sullivan, M.J.P.; Phillips, O.L.; Galbraith, D.; [...]; **Bordin, K. M.**; [...]*.* (2025) [Variation in wood density across South American tropical forests](https://doi.org/10.1038/s41467-025-56175-4) Nature Communications
 
@@ -61,3 +61,7 @@ Kattge, J.; Bönisch, G.; Díaz, S; Lavorel, S; [...], **Bordin, K. M.**; [...] 
 **Bordin, K. M.** (2020) [As florestas e as mudanças climáticas](https://www.ufrgs.br/jornal/as-florestas-e-as-mudancas-climaticas/). *Jornal da Universidade*. [magazine for university community at Federal University of Rio Grande do Sul].
 
 Iserhard, C. A.; [...]; **Bordin, K. M.** (2023) [Large and central eyespots from *Caligo martia* wings reduce fatal attacks by birds: a study case supports the deflection hypothesis in nature.](https://doi.org/10.22541/au.170000972.25951252/v1) Preprint at Authorea
+
+**Accepted papers**
+
+*Growth--survival trade-off in temperate trees is weak and restricted to late-successional stages*. Bordin, Kauane; Bauman, David; Pugh, Thomas ; Müller, Sandra; Phillips, Oliver; Fortunel, Claire; Needham, Jessica; Woodall, Christopher; Astigarraga, Julen; Schietti, Juliana; Liu, Daijun; Bialic-Murphy , Lalasia; Esquivel Muelbert, Adriane. Accepted in *Journal of Ecology*

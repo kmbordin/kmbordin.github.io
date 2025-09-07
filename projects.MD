@@ -18,6 +18,6 @@ Brazilian collaborations:
 
 **LERSAF**: Long-term Ecological Research in Subtropical Atlantic Forests: Coordinated by Dr. Sandra Cristina Müller.
 
-**SOBIO**: Soluções da Biodiversidade para Mitigação das Mudanças Climáticas (Nature-based solutions for climatic changes mitigation): Coordinated by Dr. Márcia Cristina Mendes Marques.
+**SoBio**: Soluções da Biodiversidade para Mitigação das Mudanças Climáticas (Nature-based solutions for climatic change mitigation): Coordinated by Dr. Márcia Cristina Mendes Marques.
 
 [**Rede DAMA**](https://rededama.github.io/) (Dinâmica Ambiental da Mata Atlântica- Atlantic Forest Environmental Dynamics): a network of researchers united to understand the complex dynamics of the Brazilian Atlantic Forest, a global hotspot of biodiversity.
