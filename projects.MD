@@ -21,3 +21,9 @@ Brazilian collaborations:
 **SoBio**: Soluções da Biodiversidade para Mitigação das Mudanças Climáticas (Nature-based solutions for climatic change mitigation): Coordinated by Dr. Márcia Cristina Mendes Marques.
 
 [**Rede DAMA**](https://rededama.github.io/) (Dinâmica Ambiental da Mata Atlântica- Atlantic Forest Environmental Dynamics): a network of researchers united to understand the complex dynamics of the Brazilian Atlantic Forest, a global hotspot of biodiversity.
+
+Recently, I have been developing a GitHub repo to organise and store R codes to evaluate forest structure and dynamics. This repo is now public and you can use it! If you find any problems please reach out at kauanembordin[at]gmail.com
+
+```         
+Assess the GitHub repo here: [forest_structure_and_dynamics on GitHub](https://github.com/kmbordin/forest_structure_and_dynamics/tree/main){:target="_blank"} 
+```
