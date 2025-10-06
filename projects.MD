@@ -24,4 +24,4 @@ Brazilian collaborations:
 
 Recently, I have been developing a GitHub repo to organise and store R codes to evaluate forest structure and dynamics. This repo is now public and you can use it! If you find any problems please reach out at kauanembordin[at]gmail.com
 
-Assess the GitHub repo here: <a href="https://github.com/kmbordin/forest_structure_and_dynamics" target="_blank"> forest_structure_and_dynamics </a></p>
+Assess the GitHub repo here: <a href="https://github.com/kmbordin/forest_structure_and_dynamics" target="_blank"> forest_structure_and_dynamics </a>
