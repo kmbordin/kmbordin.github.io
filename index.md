@@ -12,3 +12,5 @@ Forests captivate me with their endless wonders, and I am thrilled to share my j
 ![](assets/images/IMG_20241028_114100548_HDR.jpg)
 
 Aparados da Serra National Park in Southern Brazil (Oct/2024)
+
+\<span style="color: grey;"\>last update on Nov 18th 2025\</span\>
