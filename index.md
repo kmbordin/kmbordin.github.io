@@ -13,4 +13,4 @@ Forests captivate me with their endless wonders, and I am thrilled to share my j
 
 Aparados da Serra National Park in Southern Brazil (Oct/2024)
 
-###### [last update on Nov 18th 2025]
+###### [last update on Feb 02nd 2026]
