@@ -52,9 +52,9 @@ Fully funded (CAPES). Supervisor: Professor Sandra Cristina Müller
 
 ## Institutional Responsibilities And Citizenship
 
-**Reviewer** for: Science Advances, Scientific Reports, Journal of Ecology, New Phytologist, Journal of Appied Ecology, Oikos, Forest Ecology and Management, Restoration Ecology, Biotropica, Frontiers in Plant Science, Frontiers in Forests and Global Change, Perspectives in Ecology and Conservation, Journal of Vegetation Science, Folia Geobotanica, Ecological Indicators, Applied Vegetation Science, Global Ecology and Conservation, Brazilian Journal of Botany, Ecological Processes, Ecology and Evolution, Science of The Total Environment, and other local journals.
+**Reviewer** for: Science Advances, Scientific Reports, Journal of Ecology, New Phytologist, Journal of Applied Ecology, Oikos, Forest Ecology and Management, Restoration Ecology, Biotropica, Frontiers in Plant Science, Frontiers in Forests and Global Change, Perspectives in Ecology and Conservation, Journal of Vegetation Science, Folia Geobotanica, Ecological Indicators, Applied Vegetation Science, Global Ecology and Conservation, Brazilian Journal of Botany, Ecological Processes, Ecology and Evolution, Science of The Total Environment, and other local journals.
 
-**Associate editor** at: Perspectives in Ecology and Conservation
+**Associate editor** at: Perspectives in Ecology and Conservation and Journal of Vegetation Science
 
 ## Networks
 
